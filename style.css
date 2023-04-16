@@ -176,16 +176,9 @@
 		margin-right: 10px;
 		}
 
-	p {
+		p {
 		font-weight: bold;
 		}
-		
-		@font-face {
-			font-family: 'Roboto';
-			src: url('fonts/Roboto-Bold.ttf') format('truetype');
-			font-weight: bold;
-			font-style: normal;
-		  }
 
 		.hometext1 {
 			font-family: baskerville ;
@@ -204,9 +197,9 @@
 		}
 
 		.hometext3 {
-			font-family: 'roboto', sans-serif ;
-			font-weight: normal ;
-			font-size: 180%;
+			font-family: Calibri, sans-serif ;
+			font-weight: bold ;
+			font-size: 200%;
 			color: white;
 			text-align: center
 		}
@@ -227,5 +220,5 @@
 
 		.logo {
 			width: 20%;
-			height: 20;
+			height: 20%;
 		}
