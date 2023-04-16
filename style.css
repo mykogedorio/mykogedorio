@@ -13,6 +13,7 @@
 		background-position: center;
 		box-sizing: border-box;
 		font-family: sans-serif;
+		position: relative;
 		}
 
 	.page2 {
@@ -179,3 +180,80 @@
 		font-weight: bold;
 		}
 		
+		@font-face {
+			font-family: 'Roboto';
+			src: url('fonts/Roboto-Bold.ttf') format('truetype');
+			font-weight: bold;
+			font-style: normal;
+		  }
+
+		.hometext1 {
+			font-family: baskerville ;
+			font-weight: bold ;
+			font-size: 600%;
+			color: white;
+			text-align: center
+		}
+
+		.hometext2 {
+			font-family: baskerville ;
+			font-weight: bold ;
+			font-size: 600%;
+			color: white;
+			text-align: center
+		}
+
+		.hometext3 {
+			font-family: 'roboto', sans-serif ;
+			font-weight: normal ;
+			font-size: 180%;
+			color: white;
+			text-align: center
+		}
+
+		.homediv1 {
+			margin-top: 20%;
+			text-align: center;
+		}
+
+		.homediv2 {
+			text-align: center;
+		}
+
+		.homediv3 {
+			margin-top: 2%;
+
+		}
+
+		@media only screen and (max-width: 768px) {
+
+			.homediv1 {
+				margin-top: 100%;
+				text-align: center;
+			}
+
+			.hometext1 {
+				font-family: baskerville ;
+				font-weight: bold ;
+				font-size: 30px;
+				color: white;
+				text-align: center
+			}
+	
+			.hometext2 {
+				font-family: baskerville ;
+				font-weight: bold ;
+				font-size: 30px;
+				color: white;
+				text-align: center
+			}
+	
+			.hometext3 {
+				font-family: 'roboto', sans-serif ;
+				font-weight: normal ;
+				font-size: 20px;
+				color: white;
+				text-align: center
+			}
+
+	}
