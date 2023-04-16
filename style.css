@@ -212,7 +212,7 @@
 		}
 
 		.homediv1 {
-			margin-top: 20%;
+			margin-top: 5%;
 			text-align: center;
 		}
 
@@ -225,35 +225,7 @@
 
 		}
 
-		@media only screen and (max-width: 768px) {
-
-			.homediv1 {
-				margin-top: 100%;
-				text-align: center;
-			}
-
-			.hometext1 {
-				font-family: baskerville ;
-				font-weight: bold ;
-				font-size: 30px;
-				color: white;
-				text-align: center
-			}
-	
-			.hometext2 {
-				font-family: baskerville ;
-				font-weight: bold ;
-				font-size: 30px;
-				color: white;
-				text-align: center
-			}
-	
-			.hometext3 {
-				font-family: 'roboto', sans-serif ;
-				font-weight: normal ;
-				font-size: 20px;
-				color: white;
-				text-align: center
-			}
-
-	}
+		.logo {
+			width: 20%;
+			height: 20;
+		}
