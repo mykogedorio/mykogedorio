@@ -176,7 +176,7 @@
 		margin-right: 10px;
 		}
 
-		p {
+	p {
 		font-weight: bold;
 		}
 
@@ -199,7 +199,7 @@
 		.hometext3 {
 			font-family: Calibri, sans-serif ;
 			font-weight: bold ;
-			font-size: 200%;
+			font-size: 180%;
 			color: white;
 			text-align: center
 		}
