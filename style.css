@@ -147,7 +147,7 @@
 		}
 
 	.card {
-		background: rgba(255,255,255,.35);
+		background: rgba(255,255,255,.45);
 		padding: 20px;
 		margin-top: 20px;
 		}
@@ -199,7 +199,7 @@
 		.hometext3 {
 			font-family: Calibri, sans-serif ;
 			font-weight: bold ;
-			font-size: 180%;
+			font-size: 200%;
 			color: white;
 			text-align: center
 		}
